@@ -1,7 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-import re
 from collections import defaultdict
+import re
 
 def draw_graph(graph, labels=None, graph_layout='spring',
                node_size=1600, node_color='blue', node_alpha=0.3,
