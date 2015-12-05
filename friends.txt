@@ -1,0 +1,21 @@
+Person: Emily
+Friends: Viven, Ivy, Rocky, Dennis, Jason
+
+Person: Rocky
+Friends: Ivy, David
+
+Person: Viven
+Friends: Emily
+
+Person: Ivy
+Friends: Emily, Rocky
+
+Person: Dennis
+Friends: Emily
+
+Person: Jason
+Friends: Emily
+
+Person: David
+Friends: Rocky
+
