@@ -48,8 +48,6 @@ def getFriendship():
 				if match:
 					sentence = sentence.replace("Person: ", "")
 					person = sentence 
-					#friendship[person] = None
-					#print friendship 
 				else: 
 					sentence = sentence.replace("Friends: ", "")
 					sentence = sentence.replace(",","")
