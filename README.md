@@ -1,6 +1,6 @@
 ##### social network graph
 
-build a social network graph with networkx and matplotlib
+build a social network graph with networkx and matplotlib from the friends.txt file
 
 prerequisite:
 
